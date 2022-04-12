@@ -163,6 +163,5 @@ websockets==9.1
 Werkzeug==2.0.1
 wrapt==1.12.1
 wsproto==1.0.0
-xgboost==1.5.1
 zipp==3.7.0
 zope.interface==5.4.0
