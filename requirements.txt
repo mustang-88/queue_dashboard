@@ -74,7 +74,6 @@ ipython==7.24.1
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.0
-Jinja2==3.0.1
 jinja2-time==0.2.0
 jupyter-client==6.1.12
 jupyter-core==4.7.1
