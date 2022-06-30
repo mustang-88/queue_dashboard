@@ -19,7 +19,7 @@ app = dash.Dash(__name__)#, external_stylesheets=external_stylesheets)
 app.config.suppress_callback_exceptions = True
 # Keep this out of source code repository - save in a file or a database
 # VALID_USERNAME_PASSWORD_PAIRS = [
-#   ['[kinray]', '[kinray'],
+#   ['[user]', '[pword'],
 #  ]
 
 # auth = dash_auth.BasicAuth(
